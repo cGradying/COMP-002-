@@ -1,0 +1,7 @@
+Program starts
+    Hello my name is janvin
+    and ehres the 3 hobies i like
+    like 1
+    like 2
+    like 3
+End
