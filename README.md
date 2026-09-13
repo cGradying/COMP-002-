@@ -1,3 +1,8 @@
 # COMP-002
 
-Hello
+This area is where i will save my projects and quizes and lessons
+
+the structure for storing the files are maintained in
+
+Lessons 
+    - Files|Lessons
